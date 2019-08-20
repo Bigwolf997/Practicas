@@ -1,0 +1,42 @@
+Last login: Tue Aug 20 17:34:08 on ttys000
+Tanzania49:~ alumno$ mkdrir practica2/
+-bash: mkdrir: command not found
+Tanzania49:~ alumno$ mkdir practica2/
+Tanzania49:~ alumno$ cd practica2
+Tanzania49:practica2 alumno$ mkdir Algrebra
+Tanzania49:practica2 alumno$ mkdir Calculo
+Tanzania49:practica2 alumno$ mkdir Fisica
+Tanzania49:practica2 alumno$ mkdir IFP
+Tanzania49:practica2 alumno$ mkdir Quimica
+Tanzania49:practica2 alumno$ cd Algrebra/
+Tanzania49:Algrebra alumno$ touch archivo.txt
+Tanzania49:Algrebra alumno$ cd archivo.txt
+-bash: cd: archivo.txt: Not a directory
+Tanzania49:Algrebra alumno$ echo archivo
+archivo
+Tanzania49:Algrebra alumno$ echo "Jesus Arturo Resendiz Rosales 317311022" >> archivo.txt
+Tanzania49:Algrebra alumno$ cd ..
+Tanzania49:practica2 alumno$ cd calculo
+Tanzania49:calculo alumno$ touch archivo.txt
+Tanzania49:calculo alumno$ echo "Jesus Arturo Resendiz Rosales 317311022" >> archivo.txt
+Tanzania49:calculo alumno$ cd ..
+Tanzania49:practica2 alumno$ cd Fisica
+Tanzania49:Fisica alumno$ touch archivo.txt
+Tanzania49:Fisica alumno$ echo "Jesus Arturo Resendiz Rosales 317311022" >> archivo.txt
+Tanzania49:Fisica alumno$ cd ..
+Tanzania49:practica2 alumno$ cd IFP
+Tanzania49:IFP alumno$ touch archivo.txt
+Tanzania49:IFP alumno$ echo "Jesus Arturo Resendiz Rosales 317311022" >> archivo.txt
+Tanzania49:IFP alumno$ cd ..
+Tanzania49:practica2 alumno$ cd Quimica
+Tanzania49:Quimica alumno$ touch archivo.txt
+Tanzania49:Quimica alumno$ echo "Jesus Arturo Resendiz Rosales 317311022" >> archivo.txt
+Tanzania49:Quimica alumno$ cd ..
+Tanzania49:practica2 alumno$ ls
+Algrebra	Calculo		Fisica		IFP		Quimica
+Tanzania49:practica2 alumno$ 
+
+
+
+
+
