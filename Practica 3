@@ -1,0 +1,39 @@
+Dado un precio calcular su descuento considerando que su precio es mayor 100 descontar un 10% de otro modo descontar 2%
+
+Entrada: Precio original
+
+Salida: Precio con descuento aplicado
+
+Solución:
+1. Solicitar el precio original
+2. Si el numero es es mayor o igual a 100 el descuento será igual a 10% si no es así el descuento será del 2%
+3. Dividir el precio original por 100 y y multiplicar por el descuento.
+4. Restarle al valor original el resultado y se obtendrá el valor original con el descuento aplicado.
+5. Imprimir valor con descuento aplicado
+
+
+Un algoritmo que lea dos numeros y calcule su suma, resta, multiplicación y división
+
+Entrada: Dos números 
+
+Salida: el resultado de sus operaciones correspondiente
+
+Solución: 
+1. Solicitar dos numeros
+2. La suma de los números es igual al primer numero mas el segundo
+3. La resta de los números es igual al primer numero - el segundo
+4. El producto de los números es igual al primer numero multiplicado el segundo
+5. El cociente de los números es igual al primer numero entre el segundo
+6. Imprimir Resultados
+
+
+Leer 3 números que van a denotar una fecha y verificar si es una fecha valida
+
+Entrada: números de la fecha
+
+Salida: Fecha Valida o Invalida
+
+Solución: 
+1. Solicitar fecha en formato MMDDAA
+2. Si los primeros dos números están dentro del intervalo 1 a 12 la fecha pasa al siguiente paso
+3. Si los primeros dos numeros son 04 o 06 o 09 o 
